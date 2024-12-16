@@ -80,33 +80,4 @@
 
 <br>
 
-## 😅 Very Little
-
-<table>
-    <tr>
-        <th>구분</th>
-        <th>내용</th>
-    </tr>
-    <tr>
-        <td>Front-end</td>
-        <td>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-        </td>
-    </tr>
-    <tr>
-        <td>Operating System</td>
-        <td>
-            <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
-        </td>
-    </tr>
-    <tr>
-        <td>DataBase</td>
-        <td>
-            <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
-        </td>
-    </tr>
-</table>
-
-<br>
-
 
