@@ -22,23 +22,6 @@
 
 <br>
 
-## 💻 Main Stack
-<table>
-    <tr>
-        <th>구분</th>
-        <th>내용</th>
-    </tr>
-    <tr>
-        <th>DataBase</th>
-        <td>
-        <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-        </td>
-    </tr>
-</table>
-<br>
-
-
 ## 💻 Tech Stack 
 
 <table>
@@ -61,6 +44,13 @@
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <th>DataBase</th>
+        <td>
+            <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
         </td>
     </tr>
     <tr>
