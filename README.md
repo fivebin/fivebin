@@ -8,7 +8,7 @@
 <br>
 
 ## 🖥 Project 🖥
-- 여행 동행 서비스 <b>두리번</b> 개발 (2024.09.11 ~ 2024.09.25)
+- SMHRD MAINPROJECT 여행 동행 서비스 <b>두리번</b> 개발 (2024.09.11 ~ 2024.09.25)
 - <b>SMHRD FINALPROJECT</b> (2024.10 ~ ing)
 
 <br>
