@@ -2,18 +2,19 @@
 
 <br>
 
-## 📝 DEV's log 📝
+## DEV's log
 <a href="https://velog.io/@fivebean/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
 <br>
 
-## 🖥 Project 🖥
+## 프로젝트
 - SMHRD MAINPROJECT 여행 동행 서비스 <b>두리번</b> 개발 (2024.09.11 ~ 2024.09.25)
 - <b>SMHRD FINALPROJECT</b> (2024.10 ~ ing)
 
 <br>
 
-## ✨ Experience ✨ 
+## 대회 
+- <b>2022 ICT이노베이션 스퀘어확산사업 창업경진대회 우수상<b> ( 2022.09 ~ 2022.10 )
 - <b>SMHRD 2024 K-Digital Training DCX 빅데이터 분석서비스 개발자과정</b> (2024.06 ~ ing)
 - <b>제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 아이디어 공모전 참여</b> (2024.10)
 - <b>신한 AI 아이디어톤 참여</b> (2024.10)
@@ -22,7 +23,7 @@
 
 <br>
 
-## 💻 Tech Stack 
+## Tech Stack 
 
 <table>
     <tr>
