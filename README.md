@@ -66,10 +66,6 @@
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
         </td>
     </tr>
-    <tr>
-        <td>other</td>
-        <img src="https://assets.blogs.bsu.edu/wp-content/uploads/sites/38/2023/02/24133338/Tableau-Logo.png">
-    </tr>
 </table>
 
 <br>
