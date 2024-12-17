@@ -7,9 +7,15 @@
 
 <br>
 
+## 교육
+- 동북권 IT복합교육 수료 (2022.07 ~ 2022.08)
+- 스마트인재개발원 DCX기반 빅데이터 분석서비스개발자 과정 수료 (2024.06 ~ 2024.12)
+- 
+<br>
+
 ## 프로젝트
-- SMHRD MAINPROJECT 여행 동행 서비스 <b>두리번</b> 개발 (2024.09.11 ~ 2024.09.25)
-- <b>SMHRD FINALPROJECT</b> (2024.10 ~ ing)
+- SMHRD MAINPROJECT 여행 동행 서비스 <b>Doribun</b> 개발 (2024.09.11 ~ 2024.09.25)
+- <b>SMHRD FINALPROJECT ARTI</b> (2024.10 ~ ing)
 
 <br>
 
