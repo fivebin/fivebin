@@ -15,7 +15,7 @@
 
 ## 프로젝트
 - SMHRD FINALPROJECT <b>ARTI</b> (2024.10 ~ 2024.12)
-- SMHRD MAINPROJECT 여행 동행 서비스 <b>Doribun</b> 개발 (2024.09.11 ~ 2024.09.25)
+- SMHRD MAINPROJECT 여행 동행 서비스 <b>Duribun</b> 개발 (2024.09.11 ~ 2024.09.25)
 
 <br>
 
