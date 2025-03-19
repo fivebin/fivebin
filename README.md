@@ -72,7 +72,7 @@
         </td>
     </tr>
     <tr>
-        <td></td>
+        <td>Operating System</td>
         <td>
             <img src="">
         </td>    
